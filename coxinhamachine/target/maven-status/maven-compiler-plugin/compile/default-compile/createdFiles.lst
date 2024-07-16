@@ -1,6 +1,6 @@
-ConstrutoresdaMaquina\Maquina.class
-ConstrutoresdaMaquina\SecondaryController.class
-ConstrutoresdaMaquina\App.class
+construtoresdamaquina\ControleCoxinha.class
 module-info.class
-ConstrutoresdaMaquina\ControleCoxinha.class
-ConstrutoresdaMaquina\PrimaryController.class
+construtoresdamaquina\SecondaryController.class
+construtoresdamaquina\Maquina.class
+construtoresdamaquina\PrimaryController.class
+construtoresdamaquina\App.class

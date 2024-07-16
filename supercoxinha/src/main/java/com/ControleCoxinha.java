@@ -2,7 +2,6 @@
 package com;
 
 import javafx.fxml.FXML;
-import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 
 
@@ -12,19 +11,6 @@ public class ControleCoxinha extends Maquina{
     private TextField quantidadetext;
      @FXML
      private TextField estoquetext;
-   /*  @FXML
-    private Button botaoad;
-     @FXML
-     private Button botaoex;
-     @FXML
-    private Button botaozerar;
-     @FXML
-     private void inciar(){
-         updateEstoque();
-         botaoad.setOnAction(event -> adicionar());
-         botaoex.setOnAction(event -> vender());
-         botaozerar.setOnAction(event -> zerar());
-     }*/
     @FXML
     private void adicionar(){
         updateEstoque();

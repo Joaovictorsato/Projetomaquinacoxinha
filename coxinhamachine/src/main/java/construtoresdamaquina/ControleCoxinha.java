@@ -11,7 +11,7 @@ public class ControleCoxinha extends Maquina{
     private TextField quantidadetext;
      @FXML
      private TextField estoquetext;
-     @FXML
+   /*  @FXML
     private Button botaoad;
      @FXML
      private Button botaoex;
@@ -23,7 +23,7 @@ public class ControleCoxinha extends Maquina{
          botaoad.setOnAction(event -> adicionar());
          botaoex.setOnAction(event -> vender());
          botaozerar.setOnAction(event -> zerar());
-     }
+     }*/
     @FXML
     private void adicionar(){
         updateEstoque();
